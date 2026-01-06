@@ -16,3 +16,10 @@ APK terbaru dapat diunduh melalui halaman Release:
 - Platform: Android
 - Versi: v1.0.0
 - Status: Beta
+
+## 📦 Release & Download Statistik
+
+- ![Total Downloads](https://img.shields.io/github/downloads/MuhammadFirdausiNazula/Rental-PS-/total)
+- ![Latest Downloads](https://img.shields.io/github/downloads-pre/MuhammadFirdausiNazula/Rental-PS-/latest/total)
+- ![Latest Release](https://img.shields.io/github/v/release/MuhammadFirdausiNazula/Rental-PS-?include_prereleases)
+- ![Release Date](https://img.shields.io/github/release-date-pre/MuhammadFirdausiNazula/Rental-PS-)
