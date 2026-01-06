@@ -8,7 +8,7 @@ APK terbaru dapat diunduh melalui halaman Release:
 ## 📥 Download APK
 
 [![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](
-https://github.com/MuhammadFirdausiNazula/Rental-PS-/releases/tag/v1.0.0
+[https://github.com/MuhammadFirdausiNazula/Rental-PS-/releases/tag/v1.0.0](https://github.com/MuhammadFirdausiNazula/Rental-PS-/releases/download/v1.0.0/app-release.apk)
 )
 ## 📱 Fitur Utama
 - Pencatatan data pelanggan
