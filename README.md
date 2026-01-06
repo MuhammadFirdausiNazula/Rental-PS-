@@ -4,7 +4,7 @@ Aplikasi mobile Android untuk membantu pengelolaan penyewaan PlayStation, mulai 
 
 ## 📥 Download Aplikasi
 APK terbaru dapat diunduh melalui halaman Release:
-👉 https://github.com/MuhammadFirdausiNazula/Rental-PS-.git/Rental-PS-/releases
+👉 https://github.com/MuhammadFirdausiNazula/Rental-PS-/releases/tag/v1.0.0
 
 ## 📱 Fitur Utama
 - Pencatatan data pelanggan
